@@ -1,0 +1,11 @@
+Nome do produto	Preço do produto
+Pizza de frango com catupiry	35
+Pizza de calabreza	32
+Pizza de lombo com cheddar 	30
+Pizza de rúcula 	20
+Pizzade estrogonoffe de carne	40
+Pizza de picanha	45
+Pizza de brigadeiro	38
+Pizza de romeu e julieta	38
+Pizza de beijinho	36
+Pizza de hot roll	50
